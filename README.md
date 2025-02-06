@@ -33,63 +33,7 @@ E_D_A.ipynb: Jupyter Notebook containing the code and analysis.
 
 
 
-**Project 2: Simple Linear Regression on Housing Prices**
 
-**Description**
-
-Used a housing prices dataset (Boston Housing dataset).
-
-Performed data preprocessing, including feature selection and normalization.
-
-Built a linear regression model to predict house prices based on features like the number of rooms, square footage, etc.
-
-**Tools Used**
-
-Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
-
-Jupyter Notebook
-
-**Dataset**
-
-Boston Housing Dataset
-
-**Files**
-
-Model_Building.ipynb: Jupyter Notebook containing the code and analysis.
-
-
-
-
-
-
-**Project 3: Loan Eligibility Prediction**
-
-**Description**
-
-Loaded and explored a loan dataset to understand its structure, features, and target variable (Loan Status: Approved/Not Approved).
-
-Developed a Loan Eligibility Prediction model using Python.
-
-Learned and applied popular Machine Learning Algorithms (Logistic Regression, Decision Trees, Random Forest).
-
-Explored various Python libraries for data preprocessing, model training, and evaluation.
-
-**Tools Used**
-
-Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
-
-Jupyter Notebook
-
-**Dataset**
-
-Loan Prediction Dataset
-
-**Files**
-Loan_Prediction.ipynb: Jupyter Notebook containing the code and analysis.
-
-
-**Key Skills Gained:**
-Data preprocessing and cleaning.
 
 Exploratory Data Analysis (EDA).
 
