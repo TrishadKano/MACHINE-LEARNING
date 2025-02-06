@@ -29,6 +29,10 @@ Titanic Dataset
 E_D_A.ipynb: Jupyter Notebook containing the code and analysis.
 
 
+
+
+
+
 **Project 2: Simple Linear Regression on Housing Prices**
 
 **Description**
@@ -52,6 +56,10 @@ Boston Housing Dataset
 **Files**
 
 Model_Building.ipynb: Jupyter Notebook containing the code and analysis.
+
+
+
+
 
 
 **Project 3: Loan Eligibility Prediction**
