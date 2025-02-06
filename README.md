@@ -32,6 +32,31 @@ E_D_A.ipynb: Jupyter Notebook containing the code and analysis.
 
 
 
+Project 3: Loan Eligibility Prediction
+
+Description
+
+Loaded and explored a loan dataset to understand its structure, features, and target variable (Loan Status: Approved/Not Approved).
+
+Developed a Loan Eligibility Prediction model using Python.
+
+Learned and applied popular Machine Learning Algorithms (Logistic Regression, Decision Trees, Random Forest).
+
+Explored various Python libraries for data preprocessing, model training, and evaluation.
+
+Tools Used
+
+Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
+
+Jupyter Notebook
+
+Dataset
+
+Loan Prediction Dataset
+
+Files Loan_Prediction.ipynb: Jupyter Notebook containing the code and analysis.
+
+Key Skills Gained: Data preprocessing and cleaning.
 
 
 
